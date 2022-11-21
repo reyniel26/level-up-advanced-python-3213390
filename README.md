@@ -1,4 +1,4 @@
-# Level Up: Advanced Python 
+# Level Up: Advanced Python
 This is the repository for the LinkedIn Learning course Level Up: Advanced Python. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Level Up: Advanced Python ][lil-thumbnail-url]
@@ -14,3 +14,9 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/level-up-advanced-python
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3213390/3213390-1667864247408-16x9.jpg
 [gcs-video-url]: https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course
+
+
+## Reyniel notes
+```
+pip install -r requirements.txt
+```
